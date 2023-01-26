@@ -1,11 +1,10 @@
- <img align="right" alt="Coding" width ="300"src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif"> <hr>
 <h1 align="center">Hi 👋, I'm Kenn Secusana</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xplct-cont&label=Profile%20views&color=0e75b6&style=flat" alt="xplct-cont" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xplct-cont" alt="xplct-cont" /></a> </p>
-
+ <img align="right" alt="Coding" width ="300"src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif"> <hr>
 - 💬 Ask me about **Web and Android Application**
 
 - 📫 How to reach me **kennbassist@gmail.com**
