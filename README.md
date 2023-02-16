@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kenn Secusana</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer/Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xplct-cont&label=Profile%20views&color=0e75b6&style=flat" alt="xplct-cont" /> </p> <hr>
  <img align="right" alt="Coding" width ="400"src="https://thumbs.gfycat.com/LiveUnlawfulInsect-max-1mb.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xplct-cont&column=3&margin-w=5&margin-h=5" alt="xplct-cont" /></a> </p>
 
-- 💬 Ask me about **Web and Android Application**
+- 💬 Ask me about **Web and Android Development**
 
 - 📫 How to reach me **kennbassist@gmail.com**
 
