@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **kennbassist@gmail.com**
 
+- Know about my experiences **https://kennsecusana.jobs180.com/**
 
 <p align="left">
 </p>
