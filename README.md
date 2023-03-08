@@ -5,11 +5,10 @@
  <img align="right" alt="Coding" width ="400"src="https://thumbs.gfycat.com/LiveUnlawfulInsect-max-1mb.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xplct-cont&column=3&margin-w=5&margin-h=5" alt="xplct-cont" /></a> </p>
 
-- 💬 Ask me about **Web and Android Development**
 
-- 📫 How to reach me **kennbassist@gmail.com**
+- 💬 How to reach me **kennbassist@gmail.com**
 
-- Know about my experiences **https://kennsecusana.jobs180.com/**
+- 📫 Know about my experiences **https://kennsecusana.jobs180.com/**
 
 <p align="left">
 </p>
